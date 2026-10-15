@@ -15,7 +15,7 @@
 
 <!-- Profile Views - komarev is very reliable -->
 ![Profile Views](https://komarev.com/ghpvc/?username=sachingautam007&color=a855f7&style=for-the-badge&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/IshaCodes04)
+[![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/sachingautam007)
 
 </div>
 
@@ -29,7 +29,7 @@
 
 > 💜 *"Code is poetry written in logic — and I'm just getting started."*
 
-🎓 **Second Year BCA Student** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
+🎓 **BCA(sci) Graduate** &nbsp;|&nbsp; 💻 **Full-Stack Developer** &nbsp;|&nbsp; 🚀 **AI & Real-Time Systems Enthusiast**
 
 ---
 
@@ -132,14 +132,14 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isha-singh)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/isha_singh)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://ishasingh.dev)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gautam007)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/SachinG93155960)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23c026d3.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://sachinportfolio.bolt.host)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachingautam865412@gmail.com)
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=IshaCodes04&icon=0&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=sachingautam007&icon=0&color=6)](https://visitcount.itsvg.in)
 
 <br/>
 
