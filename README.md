@@ -14,7 +14,7 @@
 <br/><br/>
 
 <!-- Profile Views - komarev is very reliable -->
-![Profile Views](https://komarev.com/ghpvc/?username=Sachin Gautam&color=a855f7&style=for-the-badge&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=sachingautam007&color=a855f7&style=for-the-badge&label=Profile+Views)
 [![GitHub followers](https://img.shields.io/github/followers/IshaCodes04?style=for-the-badge&color=a78bfa&labelColor=1a1a2e&label=Followers)](https://github.com/IshaCodes04)
 
 </div>
